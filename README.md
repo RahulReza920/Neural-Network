@@ -4,8 +4,8 @@ This repository contains five popular neural networks algorithms implementation 
 
 The algorithms implemented are:
 
-Nearest Neighbor Algorithm
-Perceptron Learning Algorithm
-Back Propagation Algorithm
-Kohonen Network Algorithm
-Hopfield Network Algorithm
+1.Nearest Neighbor Algorithm
+2.Perceptron Learning Algorithm
+3.Back Propagation Algorithm
+4.Kohonen Network Algorithm
+5.Hopfield Network Algorithm
